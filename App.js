@@ -5,7 +5,11 @@ export default function App() {
   return (
     <SafeAreaView style={styles.container}>
       <View
-        style={{ backgroundColor: "dodgerblue", width: "100%", height: "28%" }}
+        style={{
+          backgroundColor: "dodgerblue",
+          width: "100%",
+          height: "25.25%",
+        }}
       ></View>
     </SafeAreaView>
   );
