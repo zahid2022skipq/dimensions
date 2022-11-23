@@ -7,7 +7,7 @@ export default function App() {
         backgroundColor: "#fff",
         flex: 1,
         flexDirection: "row",
-        justifyContent: "space-between",
+        justifyContent: "space-around",
       }}
     >
       <View
