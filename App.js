@@ -8,7 +8,7 @@ export default function App() {
         flex: 1,
         flexDirection: "row",
         justifyContent: "center", //main axis based on Direction
-        alignItems: "baselines",
+        alignItems: "baseline",
       }}
     >
       <View
