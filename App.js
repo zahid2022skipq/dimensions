@@ -7,7 +7,8 @@ export default function App() {
         backgroundColor: "#fff",
         flex: 1,
         flexDirection: "row",
-        justifyContent: "space-evenly",
+        justifyContent: "center", //main axis based on Direction
+        alignItems: "center",
       }}
     >
       <View
